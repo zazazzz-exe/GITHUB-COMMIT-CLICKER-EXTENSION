@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "GitHub Commit Enter Key",
+  "name": "GitHub Commit Clicker",
   "version": "1.0",
-  "description": "Press Enter to commit changes on GitHub",
+  "description": "Press Enter to automatically click the commit button on GitHub",
   "permissions": [],
   "host_permissions": ["https://github.com/*"],
   "content_scripts": [
